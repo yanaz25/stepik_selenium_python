@@ -13,7 +13,7 @@
    
 * Git:
 ```
-    git clone https://github.com/tquality-education/y.zubkova.git
+    git clone https://github.com/yanaz25/stepik_selenium_python.git
 ```
 * Или вручную
 
