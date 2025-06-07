@@ -14,8 +14,6 @@ def browser(request):
 
     print("\nstart chrome browser for test..")
     browser = webdriver.Chrome(options)
-    browser.get("http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/")
-
     yield browser
 
     print("\nquit browser..")
